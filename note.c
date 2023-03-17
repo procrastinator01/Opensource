@@ -5,6 +5,8 @@ Touched by my second account!!
 int main()
 {
 	// 이 프로그램은 두 정수를 입력받아 그 합과 곱의 값을 출력하는 프로그램입니다. 
+	// 엿드시오
+	// 똥도드시오
 	
 	int a, b;
 	printf("input a number : ");
